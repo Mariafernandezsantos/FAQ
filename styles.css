@@ -1,0 +1,42 @@
+body {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fff;
+}
+
+.menu-navegacion{
+    float: left;
+    margin-right: 50px;
+}
+
+
+.menu a{
+    padding: 10px;
+    display: block;
+    color: #000;
+    
+}
+
+li{
+    margin-bottom: 10px;
+    border: 1px solid #000;
+    list-style: none;
+}
+
+h1 {
+    margin-left: 2%;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2{
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+
+p{
+    margin-left: 5%;
+}
